@@ -4,4 +4,5 @@ using UnityEngine;
 public class ScriptableObjectTest : ScriptableObject {
     public BaseData baseData;
     public GameObject goRef;
+    public float lul;
 }
