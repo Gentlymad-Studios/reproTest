@@ -1,0 +1,13 @@
+{
+	"name": "com.gentlymadstudios.reproTest",
+	"displayName": "Repro Test",
+	"description": "Repro project to test a bug regarding reference loss when updating remote packages in unity",
+	"version": "0.0.1",
+	"unity": "2022.3",
+	"license": "MIT",
+	"author": {
+		"name": "Gentlymad Studios",
+		"url": "https://gentlymadstudios.com",
+		"email": "team@gentlymadstudios.com"
+	},
+}
