@@ -1,5 +1,5 @@
 {
-	"name": "com.gentlymadstudios.reproTest",
+	"name": "com.gentlymadstudios.reprotest",
 	"displayName": "Repro Test",
 	"description": "Repro project to test a bug regarding reference loss when updating remote packages in unity",
 	"version": "0.0.1",
