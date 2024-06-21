@@ -7,4 +7,5 @@ public class BaseData {
     public string name;
     public int value;
     public float lul;
+    public float lul2;
 }
